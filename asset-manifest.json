@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72e405ff.chunk.css",
+    "main.js": "/static/js/main.b85c9cfb.chunk.js",
+    "main.js.map": "/static/js/main.b85c9cfb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
+    "static/js/2.f39f63d9.chunk.js": "/static/js/2.f39f63d9.chunk.js",
+    "static/js/2.f39f63d9.chunk.js.map": "/static/js/2.f39f63d9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.72e405ff.chunk.css.map": "/static/css/main.72e405ff.chunk.css.map",
+    "static/js/2.f39f63d9.chunk.js.LICENSE.txt": "/static/js/2.f39f63d9.chunk.js.LICENSE.txt",
+    "static/media/Kacper_Turon_CV-long.3d538c87.pdf": "/static/media/Kacper_Turon_CV-long.3d538c87.pdf",
+    "static/media/arrow-down-icon.c99fd277.svg": "/static/media/arrow-down-icon.c99fd277.svg",
+    "static/media/arrow-up-icon.2f25fac0.svg": "/static/media/arrow-up-icon.2f25fac0.svg",
+    "static/media/gh-icon.737f6807.svg": "/static/media/gh-icon.737f6807.svg",
+    "static/media/App.css": "/static/media/mask.9e833726.webp",
+    "static/media/ln-icon.b3b6154a.svg": "/static/media/ln-icon.b3b6154a.svg",
+    "static/media/pdf-download-icon.0094a0b9.svg": "/static/media/pdf-download-icon.0094a0b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd7dc15.js",
+    "static/js/2.f39f63d9.chunk.js",
+    "static/css/main.72e405ff.chunk.css",
+    "static/js/main.b85c9cfb.chunk.js"
+  ]
+}
