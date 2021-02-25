@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4f3e980.chunk.css",
-    "main.js": "/static/js/main.c05aed1f.chunk.js",
-    "main.js.map": "/static/js/main.c05aed1f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d1d34533.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d1d34533.js.map",
+    "main.css": "/static/css/main.d0db75aa.chunk.css",
+    "main.js": "/static/js/main.5c7e3374.chunk.js",
+    "main.js.map": "/static/js/main.5c7e3374.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4232f1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4232f1c.js.map",
     "static/js/2.12572564.chunk.js": "/static/js/2.12572564.chunk.js",
     "static/js/2.12572564.chunk.js.map": "/static/js/2.12572564.chunk.js.map",
-    "static/js/3.f3c0c702.chunk.js": "/static/js/3.f3c0c702.chunk.js",
-    "static/js/3.f3c0c702.chunk.js.map": "/static/js/3.f3c0c702.chunk.js.map",
+    "static/js/3.b35d5083.chunk.js": "/static/js/3.b35d5083.chunk.js",
+    "static/js/3.b35d5083.chunk.js.map": "/static/js/3.b35d5083.chunk.js.map",
     "static/js/4.9a8915fc.chunk.js": "/static/js/4.9a8915fc.chunk.js",
     "static/js/4.9a8915fc.chunk.js.map": "/static/js/4.9a8915fc.chunk.js.map",
     "static/js/5.adbfb6c6.chunk.js": "/static/js/5.adbfb6c6.chunk.js",
     "static/js/5.adbfb6c6.chunk.js.map": "/static/js/5.adbfb6c6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c4f3e980.chunk.css.map": "/static/css/main.c4f3e980.chunk.css.map",
+    "static/css/main.d0db75aa.chunk.css.map": "/static/css/main.d0db75aa.chunk.css.map",
     "static/js/2.12572564.chunk.js.LICENSE.txt": "/static/js/2.12572564.chunk.js.LICENSE.txt",
     "static/media/Kacper-Turon-CV.974190dd.pdf": "/static/media/Kacper-Turon-CV.974190dd.pdf",
     "static/media/arrow-down-icon.c99fd277.svg": "/static/media/arrow-down-icon.c99fd277.svg",
     "static/media/arrow-up-icon.2f25fac0.svg": "/static/media/arrow-up-icon.2f25fac0.svg",
     "static/media/gh-icon.737f6807.svg": "/static/media/gh-icon.737f6807.svg",
-    "static/media/App.css": "/static/media/mask.9e833726.webp",
+    "static/media/App.css": "/static/media/mask-sm.64bd64b2.webp",
     "static/media/ln-icon.b3b6154a.svg": "/static/media/ln-icon.b3b6154a.svg",
     "static/media/pdf-download-icon.0094a0b9.svg": "/static/media/pdf-download-icon.0094a0b9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1d34533.js",
+    "static/js/runtime-main.f4232f1c.js",
     "static/js/2.12572564.chunk.js",
-    "static/css/main.c4f3e980.chunk.css",
-    "static/js/main.c05aed1f.chunk.js"
+    "static/css/main.d0db75aa.chunk.css",
+    "static/js/main.5c7e3374.chunk.js"
   ]
 }
