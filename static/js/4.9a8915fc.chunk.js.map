@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/KacperImg.js"],"names":["id"],"mappings":"yHAAe,4BACb,qBACEA,GAAG","file":"static/js/4.9a8915fc.chunk.js","sourcesContent":["export default () => (\n  <div\n    id=\"kacper-img\"\n  />\n);\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[5],{15:function(t,o,s){"use strict";s.r(o);var c=s(0);o.default=function(){return Object(c.jsx)("div",{id:"mask-img",style:{backgroundImage:"url(".concat("".concat("","/mask-sm.webp"),")")}})}}}]);
+//# sourceMappingURL=5.e71c1ce2.chunk.js.map

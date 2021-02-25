@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[4],{16:function(t,i,o){"use strict";o.r(i);var p=o(0);i.default=function(){return Object(p.jsx)("div",{id:"kacper-img"})}}}]);
-//# sourceMappingURL=4.9a8915fc.chunk.js.map
