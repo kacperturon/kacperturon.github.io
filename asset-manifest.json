@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.26729d69.chunk.css",
-    "main.js": "/static/js/main.5f0947ad.chunk.js",
-    "main.js.map": "/static/js/main.5f0947ad.chunk.js.map",
+    "main.css": "/static/css/main.2f927781.chunk.css",
+    "main.js": "/static/js/main.8c9aca44.chunk.js",
+    "main.js.map": "/static/js/main.8c9aca44.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3f9c5e42.js",
     "runtime-main.js.map": "/static/js/runtime-main.3f9c5e42.js.map",
     "static/js/2.f7f88d86.chunk.js": "/static/js/2.f7f88d86.chunk.js",
@@ -14,11 +14,12 @@
     "static/js/5.f8a1367b.chunk.js": "/static/js/5.f8a1367b.chunk.js",
     "static/js/5.f8a1367b.chunk.js.map": "/static/js/5.f8a1367b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.26729d69.chunk.css.map": "/static/css/main.26729d69.chunk.css.map",
+    "static/css/main.2f927781.chunk.css.map": "/static/css/main.2f927781.chunk.css.map",
     "static/js/2.f7f88d86.chunk.js.LICENSE.txt": "/static/js/2.f7f88d86.chunk.js.LICENSE.txt",
     "static/media/Kacper-Turon-CV.974190dd.pdf": "/static/media/Kacper-Turon-CV.974190dd.pdf",
     "static/media/arrow-down-icon.c99fd277.svg": "/static/media/arrow-down-icon.c99fd277.svg",
     "static/media/arrow-up-icon.2f25fac0.svg": "/static/media/arrow-up-icon.2f25fac0.svg",
+    "static/media/App.css": "/static/media/spikes.ab304b3d.png",
     "static/media/gh-icon.737f6807.svg": "/static/media/gh-icon.737f6807.svg",
     "static/media/ln-icon.b3b6154a.svg": "/static/media/ln-icon.b3b6154a.svg",
     "static/media/pdf-download-icon.0094a0b9.svg": "/static/media/pdf-download-icon.0094a0b9.svg"
@@ -26,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.3f9c5e42.js",
     "static/js/2.f7f88d86.chunk.js",
-    "static/css/main.26729d69.chunk.css",
-    "static/js/main.5f0947ad.chunk.js"
+    "static/css/main.2f927781.chunk.css",
+    "static/js/main.8c9aca44.chunk.js"
   ]
 }
