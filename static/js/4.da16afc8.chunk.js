@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[4],{20:function(p,t,c){"use strict";c.r(t);var o=c(0);t.default=function(p){var t=p.webpSupport;return Object(o.jsx)("div",{id:"kacper-img",style:{backgroundImage:"url(".concat("".concat("",t?"/kacper.webp":"/kacper.jpg"),")")}})}}}]);
-//# sourceMappingURL=4.da16afc8.chunk.js.map
