@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.63a5fac0.chunk.css",
-    "main.js": "/static/js/main.91cc832a.chunk.js",
-    "main.js.map": "/static/js/main.91cc832a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0932efb8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0932efb8.js.map",
+    "main.css": "/static/css/main.10ec0457.chunk.css",
+    "main.js": "/static/js/main.ef4f662a.chunk.js",
+    "main.js.map": "/static/js/main.ef4f662a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.152cd581.js",
+    "runtime-main.js.map": "/static/js/runtime-main.152cd581.js.map",
     "static/js/2.7096c18d.chunk.js": "/static/js/2.7096c18d.chunk.js",
     "static/js/2.7096c18d.chunk.js.map": "/static/js/2.7096c18d.chunk.js.map",
     "static/js/3.eb9ac305.chunk.js": "/static/js/3.eb9ac305.chunk.js",
     "static/js/3.eb9ac305.chunk.js.map": "/static/js/3.eb9ac305.chunk.js.map",
-    "static/js/4.d5ca6733.chunk.js": "/static/js/4.d5ca6733.chunk.js",
-    "static/js/4.d5ca6733.chunk.js.map": "/static/js/4.d5ca6733.chunk.js.map",
+    "static/js/4.4d05c782.chunk.js": "/static/js/4.4d05c782.chunk.js",
+    "static/js/4.4d05c782.chunk.js.map": "/static/js/4.4d05c782.chunk.js.map",
     "static/js/5.c77266f9.chunk.js": "/static/js/5.c77266f9.chunk.js",
     "static/js/5.c77266f9.chunk.js.map": "/static/js/5.c77266f9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.63a5fac0.chunk.css.map": "/static/css/main.63a5fac0.chunk.css.map",
+    "static/css/main.10ec0457.chunk.css.map": "/static/css/main.10ec0457.chunk.css.map",
     "static/js/2.7096c18d.chunk.js.LICENSE.txt": "/static/js/2.7096c18d.chunk.js.LICENSE.txt",
     "static/media/Kacper-Turon-CV.974190dd.pdf": "/static/media/Kacper-Turon-CV.974190dd.pdf",
     "static/media/App.css": "/static/media/y-so-serious-nobg-op50.82c3723d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0932efb8.js",
+    "static/js/runtime-main.152cd581.js",
     "static/js/2.7096c18d.chunk.js",
-    "static/css/main.63a5fac0.chunk.css",
-    "static/js/main.91cc832a.chunk.js"
+    "static/css/main.10ec0457.chunk.css",
+    "static/js/main.ef4f662a.chunk.js"
   ]
 }
